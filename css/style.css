@@ -1,0 +1,141 @@
+header img{
+	
+	height: 120px;
+	display: inline-block;
+	float: left;
+}
+
+header p{
+
+	color: #A9A9A9;
+	margin: 0;
+}
+
+.buscar p{
+	border: 1px solid #A9A9A9;
+	padding: 4px;
+}
+
+.col-3{
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+.banner img{
+
+	height: 500px;
+	width: 100%;
+	position: relative;
+}
+
+.icono img{
+
+	width: 90px;
+	height: 90px;
+	top:45%;
+	left: 30%;
+	position: absolute;
+}
+
+span{
+	
+	color: white;
+	font-size: 40px;
+	position: absolute;
+	top:20%;
+	right: 19%;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+section hr{
+
+	width: 300px;
+	height: 1px;
+	color: orange;
+	position: absolute;
+	top:26%;
+	right: 11%;
+}
+.all-age p{
+
+color:	#00FF00;
+border: 1px solid 	#00FF00;
+height: 30px;
+width: 55px;
+border-radius: 6px;
+top:30%;
+right: 28%;
+position: absolute;
+}
+
+.lala p{
+
+	color: white;
+	position: absolute;
+	top:30%;
+	right: 15%;
+
+}
+
+.luli {
+
+	width: 160px;
+}
+
+.lolo {
+	
+	top:40%;
+	right: 9%;
+	position: absolute;
+	color: white;
+}
+
+.papa{
+	top: 55%;
+	right: 11%;
+	width: 300px;
+	color: white;
+	position: absolute;
+
+}
+
+.col-12{
+	background-color: #FFA500;
+	height: 240px;
+	position: relative;
+	width: 100%;
+}
+
+.col-2 img{
+
+	width: 150px;
+	height: 190px;
+	position: absolute;
+	top: 92%;
+	
+
+}
+
+.container-fluid iframe{
+
+	width: 100%;
+	height:400px;
+}
+
+.col-6{
+	margin: 0 auto;
+}
+
+.col-6 h4{
+	color:#DCDCDC;
+	font-family: 
+}
+
+.boton{
+
+	background-color: Orange;
+	height: 95px;
+	width: 170px;
+	border-radius: 3px;
+	color:white;
+}
